@@ -1,0 +1,3 @@
+
+-Git is a local software tool that tracks changes in your code, while GitHub is a cloud-based platform built around Git that lets you host your code online and collaborate with others
+-Git គឺជាកម្មវិធីគ្រប់គ្រងកំណែកូដ (Version Control System) ដែលដំណើរការនៅលើម៉ាស៊ីនផ្ទាល់ខ្លួនរបស់អ្នក ចំណែកឯ GitHub គឺជាសេវាកម្មលើពពក (Cloud-based platform) ដែលប្រើប្រាស់សម្រាប់រក្សាទុក និងចែករំលែកកូដដែលគ្រប់គ្រងដោយ Git ដើម្បីធ្វើការងារជាក្រុម។
